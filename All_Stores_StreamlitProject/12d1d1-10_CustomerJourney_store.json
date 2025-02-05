@@ -1,0 +1,116 @@
+[
+    {
+        "Data": "[{\"category\":\"Engagement\",\"action\":\"Search\",\"label\":\"pancake\",\"value\":0.904,\"ip\":\"161.18.169.3\",\"customerId\":null,\"timestamp\":\"2025-01-24T12:18:29.560Z\",\"url\":\"https://eurekadrop.store/search?type=product&q=pancake\"}]"
+    },
+    {
+        "Data": "[{\"category\":\"Engagement\",\"action\":\"Search\",\"label\":\"pancake\",\"value\":0.904,\"ip\":\"161.18.169.3\",\"customerId\":null,\"timestamp\":\"2025-01-24T12:18:29.560Z\",\"url\":\"https://eurekadrop.store/search?type=product&q=pancake\"}]"
+    },
+    {
+        "Data": "[{\"category\":\"Engagement\",\"action\":\"Product\",\"label\":8847323431170,\"value\":90.749,\"ip\":\"161.18.169.3\",\"customerId\":null,\"timestamp\":\"2025-01-24T12:32:52.133Z\",\"url\":\"https://eurekadrop.store/products/maquina-dispensadora-de-pancakes?_pos=1&_sid=205c08ea7&_ss=r\"}]"
+    },
+    {
+        "Data": "[{\"category\":\"Engagement\",\"action\":\"Home\",\"label\":null,\"value\":2.104,\"ip\":\"161.18.169.3\",\"customerId\":null,\"timestamp\":\"2025-01-24T12:35:06.320Z\",\"url\":\"https://eurekadrop.store/\"},{\"category\":\"Engagement\",\"action\":\"Collection\",\"label\":\"all\",\"value\":4.954,\"ip\":\"161.18.169.3\",\"customerId\":null,\"timestamp\":\"2025-01-24T12:35:12.169Z\",\"url\":\"https://eurekadrop.store/collections/all\"}]"
+    },
+    {
+        "Data": "[{\"category\":\"Engagement\",\"action\":\"Collection\",\"label\":\"all\",\"value\":1.142,\"ip\":\"161.18.169.3\",\"customerId\":null,\"timestamp\":\"2025-01-24T12:35:16.857Z\",\"url\":\"https://eurekadrop.store/collections/all\"}]"
+    },
+    {
+        "Data": "[{\"category\":\"Engagement\",\"action\":\"Collection\",\"label\":\"all\",\"value\":10.926,\"ip\":\"161.18.169.3\",\"customerId\":null,\"timestamp\":\"2025-01-24T12:35:43.288Z\",\"url\":\"https://eurekadrop.store/collections/all\"},{\"category\":\"Engagement\",\"action\":\"Collection\",\"label\":\"all\",\"value\":3.128,\"ip\":\"161.18.169.3\",\"customerId\":null,\"timestamp\":\"2025-01-24T12:35:51.093Z\",\"url\":\"https://eurekadrop.store/collections/all\"}]"
+    },
+    {
+        "Data": "[{\"category\":\"Engagement\",\"action\":\"Collection\",\"label\":\"all\",\"value\":3.929,\"ip\":\"161.18.169.3\",\"customerId\":null,\"timestamp\":\"2025-01-24T12:36:11.337Z\",\"url\":\"https://eurekadrop.store/collections/all\"}]"
+    },
+    {
+        "Data": "[{\"category\":\"Engagement\",\"action\":\"Collection\",\"label\":\"all\",\"value\":1.487,\"ip\":\"161.18.169.3\",\"customerId\":null,\"timestamp\":\"2025-01-24T12:36:20.217Z\",\"url\":\"https://eurekadrop.store/collections/all\"},{\"category\":\"Engagement\",\"action\":\"Collection\",\"label\":\"all\",\"value\":6.895,\"ip\":\"161.18.169.3\",\"customerId\":null,\"timestamp\":\"2025-01-24T12:36:35.863Z\",\"url\":\"https://eurekadrop.store/collections/all\"}]"
+    },
+    {
+        "Data": "[{\"category\":\"Engagement\",\"action\":\"Collection\",\"label\":\"all\",\"value\":24.847,\"ip\":\"161.18.169.3\",\"customerId\":null,\"timestamp\":\"2025-01-24T12:37:06.982Z\",\"url\":\"https://eurekadrop.store/collections/all\"}]"
+    },
+    {
+        "Data": "[{\"category\":\"Navigation\",\"action\":\"Link Click\",\"label\":\"https://eurekadrop.store/collections/all?page=2\",\"value\":null,\"ip\":\"161.18.169.3\",\"customerId\":null,\"timestamp\":\"2025-01-24T12:37:43.957Z\",\"url\":\"https://eurekadrop.store/collections/all\"},{\"category\":\"Engagement\",\"action\":\"Collection\",\"label\":\"all\",\"value\":4.918,\"ip\":\"161.18.169.3\",\"customerId\":null,\"timestamp\":\"2025-01-24T12:37:43.958Z\",\"url\":\"https://eurekadrop.store/collections/all\"}]"
+    },
+    {
+        "Data": "[{\"category\":\"Engagement\",\"action\":\"Product\",\"label\":8893731668226,\"value\":155.845,\"ip\":null,\"customerId\":null,\"timestamp\":\"2025-01-24T12:40:25.358Z\",\"url\":\"https://eurekadrop.store/products/%F0%9F%8C%B8%E2%9A%A1%F0%9F%94%8Ccepillo-one-step-electrico%E2%9A%A1%F0%9F%94%8C%F0%9F%8C%B8\"}]"
+    },
+    {
+        "Data": "[{\"category\":\"Engagement\",\"action\":\"Home\",\"label\":null,\"value\":1001.829,\"ip\":\"161.18.169.3\",\"customerId\":null,\"timestamp\":\"2025-01-24T15:26:05.330Z\",\"url\":\"https://eurekadrop.store/\"}]"
+    },
+    {
+        "Data": "[{\"category\":\"Engagement\",\"action\":\"Collection\",\"label\":\"belleza\",\"value\":1.288,\"ip\":\"161.18.169.3\",\"customerId\":null,\"timestamp\":\"2025-01-24T15:26:08.908Z\",\"url\":\"https://eurekadrop.store/collections/belleza\"}]"
+    },
+    {
+        "Data": "[{\"category\":\"Engagement\",\"action\":\"Collection\",\"label\":\"belleza\",\"value\":1.288,\"ip\":\"161.18.169.3\",\"customerId\":null,\"timestamp\":\"2025-01-24T15:26:08.908Z\",\"url\":\"https://eurekadrop.store/collections/belleza\"}]"
+    },
+    {
+        "Data": "[{\"category\":\"Engagement\",\"action\":\"Product\",\"label\":8893731668226,\"value\":84.09,\"ip\":\"161.18.169.3\",\"customerId\":null,\"timestamp\":\"2025-01-24T15:27:34.476Z\",\"url\":\"https://eurekadrop.store/collections/belleza/products/%F0%9F%8C%B8%E2%9A%A1%F0%9F%94%8Ccepillo-one-step-electrico%E2%9A%A1%F0%9F%94%8C%F0%9F%8C%B8\"}]"
+    },
+    {
+        "Data": "[{\"category\":\"Engagement\",\"action\":\"Home\",\"label\":null,\"value\":153.002,\"ip\":\"161.18.169.3\",\"customerId\":null,\"timestamp\":\"2025-01-24T15:30:09.090Z\",\"url\":\"https://eurekadrop.store/\"}]"
+    },
+    {
+        "Data": "[{\"category\":\"Engagement\",\"action\":\"Collection\",\"label\":\"all\",\"value\":6.345,\"ip\":\"161.18.169.3\",\"customerId\":null,\"timestamp\":\"2025-01-24T15:30:17.346Z\",\"url\":\"https://eurekadrop.store/collections/all\"}]"
+    },
+    {
+        "Data": "[{\"category\":\"Engagement\",\"action\":\"Collection\",\"label\":\"all\",\"value\":6.345,\"ip\":\"161.18.169.3\",\"customerId\":null,\"timestamp\":\"2025-01-24T15:30:17.346Z\",\"url\":\"https://eurekadrop.store/collections/all\"}]"
+    },
+    {
+        "Data": "[{\"category\":\"Engagement\",\"action\":\"Collection\",\"label\":\"belleza\",\"value\":1.651,\"ip\":\"161.18.169.3\",\"customerId\":null,\"timestamp\":\"2025-01-24T16:10:41.037Z\",\"url\":\"https://eurekadrop.store/collections/belleza\"}]"
+    },
+    {
+        "Data": "[{\"category\":\"Navigation\",\"action\":\"Link Click\",\"label\":\"https://eurekadrop.store/\",\"value\":null,\"ip\":\"161.18.169.3\",\"customerId\":null,\"timestamp\":\"2025-01-24T17:50:56.297Z\",\"url\":\"https://eurekadrop.store/collections/all?page=2\"},{\"category\":\"Engagement\",\"action\":\"Collection\",\"label\":\"all?page=2\",\"value\":2145.325,\"ip\":\"161.18.169.3\",\"customerId\":null,\"timestamp\":\"2025-01-24T17:50:56.300Z\",\"url\":\"https://eurekadrop.store/collections/all?page=2\"}]"
+    },
+    {
+        "Data": "[{\"category\":\"Engagement\",\"action\":\"Home\",\"label\":null,\"value\":8.059,\"ip\":\"161.18.169.3\",\"customerId\":null,\"timestamp\":\"2025-01-24T17:51:06.508Z\",\"url\":\"https://eurekadrop.store/\"}]"
+    },
+    {
+        "Data": "[{\"category\":\"Engagement\",\"action\":\"Collection\",\"label\":\"hogar\",\"value\":27.281,\"ip\":\"161.18.169.3\",\"customerId\":null,\"timestamp\":\"2025-01-24T17:51:35.111Z\",\"url\":\"https://eurekadrop.store/collections/hogar\"}]"
+    },
+    {
+        "Data": "[{\"category\":\"Engagement\",\"action\":\"Collection\",\"label\":\"hogar\",\"value\":27.281,\"ip\":\"161.18.169.3\",\"customerId\":null,\"timestamp\":\"2025-01-24T17:51:35.111Z\",\"url\":\"https://eurekadrop.store/collections/hogar\"},{\"category\":\"Engagement\",\"action\":\"Home\",\"label\":null,\"value\":9.525,\"ip\":\"161.18.169.3\",\"customerId\":null,\"timestamp\":\"2025-01-24T19:15:17.166Z\",\"url\":\"https://eurekadrop.store/\"}]"
+    },
+    {
+        "Data": "[{\"category\":\"Engagement\",\"action\":\"Collection\",\"label\":\"hogar\",\"value\":27.281,\"ip\":\"161.18.169.3\",\"customerId\":null,\"timestamp\":\"2025-01-24T17:51:35.111Z\",\"url\":\"https://eurekadrop.store/collections/hogar\"},{\"category\":\"Engagement\",\"action\":\"Home\",\"label\":null,\"value\":9.525,\"ip\":\"161.18.169.3\",\"customerId\":null,\"timestamp\":\"2025-01-24T19:15:17.166Z\",\"url\":\"https://eurekadrop.store/\"}]"
+    },
+    {
+        "Data": "[{\"category\":\"Engagement\",\"action\":\"Collection\",\"label\":\"hogar\",\"value\":27.281,\"ip\":\"161.18.169.3\",\"customerId\":null,\"timestamp\":\"2025-01-24T17:51:35.111Z\",\"url\":\"https://eurekadrop.store/collections/hogar\"},{\"category\":\"Engagement\",\"action\":\"Home\",\"label\":null,\"value\":9.525,\"ip\":\"161.18.169.3\",\"customerId\":null,\"timestamp\":\"2025-01-24T19:15:17.166Z\",\"url\":\"https://eurekadrop.store/\"}]"
+    },
+    {
+        "Data": "[{\"category\":\"Engagement\",\"action\":\"Collection\",\"label\":\"hogar\",\"value\":27.281,\"ip\":\"161.18.169.3\",\"customerId\":null,\"timestamp\":\"2025-01-24T17:51:35.111Z\",\"url\":\"https://eurekadrop.store/collections/hogar\"},{\"category\":\"Engagement\",\"action\":\"Home\",\"label\":null,\"value\":9.525,\"ip\":\"161.18.169.3\",\"customerId\":null,\"timestamp\":\"2025-01-24T19:15:17.166Z\",\"url\":\"https://eurekadrop.store/\"},{\"category\":\"Engagement\",\"action\":\"Home\",\"label\":null,\"value\":379.257,\"ip\":\"161.18.169.3\",\"customerId\":null,\"timestamp\":\"2025-01-24T19:21:40.326Z\",\"url\":\"https://eurekadrop.store/\"}]"
+    },
+    {
+        "Data": "[{\"category\":\"Engagement\",\"action\":\"Collection\",\"label\":\"hogar\",\"value\":27.281,\"ip\":\"161.18.169.3\",\"customerId\":null,\"timestamp\":\"2025-01-24T17:51:35.111Z\",\"url\":\"https://eurekadrop.store/collections/hogar\"},{\"category\":\"Engagement\",\"action\":\"Home\",\"label\":null,\"value\":9.525,\"ip\":\"161.18.169.3\",\"customerId\":null,\"timestamp\":\"2025-01-24T19:15:17.166Z\",\"url\":\"https://eurekadrop.store/\"},{\"category\":\"Engagement\",\"action\":\"Home\",\"label\":null,\"value\":379.257,\"ip\":\"161.18.169.3\",\"customerId\":null,\"timestamp\":\"2025-01-24T19:21:40.326Z\",\"url\":\"https://eurekadrop.store/\"},{\"category\":\"Engagement\",\"action\":\"Collection\",\"label\":\"belleza\",\"value\":2.33,\"ip\":\"161.18.169.3\",\"customerId\":null,\"timestamp\":\"2025-01-24T19:21:44.331Z\",\"url\":\"https://eurekadrop.store/collections/belleza\"}]"
+    },
+    {
+        "Data": "[{\"category\":\"Engagement\",\"action\":\"Product\",\"label\":8856444305666,\"value\":13.322,\"ip\":null,\"customerId\":null,\"timestamp\":\"2025-01-24T19:21:59.426Z\",\"url\":\"https://eurekadrop.store/collections/belleza/products/dispositivo-de-estiramiento-facial-con-microcorriente\"}]"
+    },
+    {
+        "Data": "[{\"category\":\"Engagement\",\"action\":\"Product\",\"label\":8856444305666,\"value\":13.322,\"ip\":null,\"customerId\":null,\"timestamp\":\"2025-01-24T19:21:59.426Z\",\"url\":\"https://eurekadrop.store/collections/belleza/products/dispositivo-de-estiramiento-facial-con-microcorriente\"},{\"category\":\"Navigation\",\"action\":\"Link Click\",\"label\":\"https://eurekadrop.store/collections/all\",\"value\":null,\"ip\":\"161.18.169.3\",\"customerId\":null,\"timestamp\":\"2025-01-24T19:29:16.516Z\",\"url\":\"https://eurekadrop.store/\"},{\"category\":\"Engagement\",\"action\":\"Home\",\"label\":null,\"value\":436.476,\"ip\":\"161.18.169.3\",\"customerId\":null,\"timestamp\":\"2025-01-24T19:29:16.520Z\",\"url\":\"https://eurekadrop.store/\"}]"
+    },
+    {
+        "Data": "[{\"category\":\"Engagement\",\"action\":\"Collection\",\"label\":\"all\",\"value\":10.08,\"ip\":\"161.18.169.3\",\"customerId\":null,\"timestamp\":\"2025-01-24T19:29:28.386Z\",\"url\":\"https://eurekadrop.store/collections/all\"}]"
+    },
+    {
+        "Data": "[{\"category\":\"Engagement\",\"action\":\"Collection\",\"label\":\"all\",\"value\":10.08,\"ip\":\"161.18.169.3\",\"customerId\":null,\"timestamp\":\"2025-01-24T19:29:28.386Z\",\"url\":\"https://eurekadrop.store/collections/all\"}]"
+    },
+    {
+        "Data": "[{\"category\":\"Engagement\",\"action\":\"Collection\",\"label\":\"all?page=2\",\"value\":0.953,\"ip\":\"161.18.169.3\",\"customerId\":null,\"timestamp\":\"2025-01-24T21:35:24.135Z\",\"url\":\"https://eurekadrop.store/collections/all?page=2\"}]"
+    },
+    {
+        "Data": "[{\"category\":\"Engagement\",\"action\":\"Collection\",\"label\":\"all?page=2\",\"value\":0.953,\"ip\":\"161.18.169.3\",\"customerId\":null,\"timestamp\":\"2025-01-24T21:35:24.135Z\",\"url\":\"https://eurekadrop.store/collections/all?page=2\"}]"
+    },
+    {
+        "Data": "[{\"category\":\"Engagement\",\"action\":\"Product\",\"label\":8869753815298,\"value\":86.26,\"ip\":\"161.18.169.3\",\"customerId\":null,\"timestamp\":\"2025-01-24T21:40:46.255Z\",\"url\":\"https://eurekadrop.store/products/%E2%98%98%EF%B8%8Fcubiertero-expandible-5-puestos%E2%98%98%EF%B8%8F\"}]"
+    },
+    {
+        "Data": "[{\"category\":\"Engagement\",\"action\":\"Product\",\"label\":8869753815298,\"value\":86.26,\"ip\":\"161.18.169.3\",\"customerId\":null,\"timestamp\":\"2025-01-24T21:40:46.255Z\",\"url\":\"https://eurekadrop.store/products/%E2%98%98%EF%B8%8Fcubiertero-expandible-5-puestos%E2%98%98%EF%B8%8F\"},{\"category\":\"Engagement\",\"action\":\"Home\",\"label\":null,\"value\":2.638,\"ip\":\"161.18.169.3\",\"customerId\":null,\"timestamp\":\"2025-01-24T21:40:49.595Z\",\"url\":\"https://eurekadrop.store/\"}]"
+    },
+    {
+        "Data": "[{\"category\":\"Engagement\",\"action\":\"Product\",\"label\":8869753815298,\"value\":86.26,\"ip\":\"161.18.169.3\",\"customerId\":null,\"timestamp\":\"2025-01-24T21:40:46.255Z\",\"url\":\"https://eurekadrop.store/products/%E2%98%98%EF%B8%8Fcubiertero-expandible-5-puestos%E2%98%98%EF%B8%8F\"},{\"category\":\"Engagement\",\"action\":\"Home\",\"label\":null,\"value\":2.638,\"ip\":\"161.18.169.3\",\"customerId\":null,\"timestamp\":\"2025-01-24T21:40:49.595Z\",\"url\":\"https://eurekadrop.store/\"},{\"category\":\"Engagement\",\"action\":\"Search\",\"label\":null,\"value\":3.239,\"ip\":\"161.18.169.3\",\"customerId\":null,\"timestamp\":\"2025-01-24T21:40:53.592Z\",\"url\":\"https://eurekadrop.store/search\"}]"
+    },
+    {
+        "Data": "[{\"category\":\"Engagement\",\"action\":\"Product\",\"label\":8869753815298,\"value\":86.26,\"ip\":\"161.18.169.3\",\"customerId\":null,\"timestamp\":\"2025-01-24T21:40:46.255Z\",\"url\":\"https://eurekadrop.store/products/%E2%98%98%EF%B8%8Fcubiertero-expandible-5-puestos%E2%98%98%EF%B8%8F\"},{\"category\":\"Engagement\",\"action\":\"Home\",\"label\":null,\"value\":2.638,\"ip\":\"161.18.169.3\",\"customerId\":null,\"timestamp\":\"2025-01-24T21:40:49.595Z\",\"url\":\"https://eurekadrop.store/\"},{\"category\":\"Engagement\",\"action\":\"Search\",\"label\":null,\"value\":3.239,\"ip\":\"161.18.169.3\",\"customerId\":null,\"timestamp\":\"2025-01-24T21:40:53.592Z\",\"url\":\"https://eurekadrop.store/search\"},{\"category\":\"Engagement\",\"action\":\"Search\",\"label\":\"nebulizador\",\"value\":0.635,\"ip\":\"161.18.169.3\",\"customerId\":null,\"timestamp\":\"2025-01-24T21:40:55.294Z\",\"url\":\"https://eurekadrop.store/search?type=product&q=nebulizador\"}]"
+    },
+    {
+        "Data": "[{\"category\":\"Engagement\",\"action\":\"Product\",\"label\":8869753815298,\"value\":86.26,\"ip\":\"161.18.169.3\",\"customerId\":null,\"timestamp\":\"2025-01-24T21:40:46.255Z\",\"url\":\"https://eurekadrop.store/products/%E2%98%98%EF%B8%8Fcubiertero-expandible-5-puestos%E2%98%98%EF%B8%8F\"},{\"category\":\"Engagement\",\"action\":\"Home\",\"label\":null,\"value\":2.638,\"ip\":\"161.18.169.3\",\"customerId\":null,\"timestamp\":\"2025-01-24T21:40:49.595Z\",\"url\":\"https://eurekadrop.store/\"},{\"category\":\"Engagement\",\"action\":\"Search\",\"label\":null,\"value\":3.239,\"ip\":\"161.18.169.3\",\"customerId\":null,\"timestamp\":\"2025-01-24T21:40:53.592Z\",\"url\":\"https://eurekadrop.store/search\"},{\"category\":\"Engagement\",\"action\":\"Search\",\"label\":\"nebulizador\",\"value\":0.635,\"ip\":\"161.18.169.3\",\"customerId\":null,\"timestamp\":\"2025-01-24T21:40:55.294Z\",\"url\":\"https://eurekadrop.store/search?type=product&q=nebulizador\"}]"
+    }
+]

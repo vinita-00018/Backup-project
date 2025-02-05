@@ -1,0 +1,8 @@
+[
+    {
+        "Data": "[{\"category\":\"Engagement\",\"action\":\"Collection\",\"label\":\"throws\",\"value\":65.87,\"ip\":null,\"customerId\":null,\"timestamp\":\"2025-01-01T20:53:18.543Z\",\"url\":\"https://dyori.com/collections/throws\"}]"
+    },
+    {
+        "Data": "[{\"category\":\"Engagement\",\"action\":\"Collection\",\"label\":\"pre-packed-gift-boxes\",\"value\":10.289,\"ip\":\"92.251.107.250\",\"customerId\":null,\"timestamp\":\"2025-01-25T09:09:29.652Z\",\"url\":\"https://dyori.com/collections/pre-packed-gift-boxes\"}]"
+    }
+]

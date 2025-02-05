@@ -1,0 +1,11 @@
+[
+    {
+        "Data": "[{\"category\":\"Engagement\",\"action\":\"Home\",\"label\":null,\"value\":25.21,\"ip\":\"138.4.215.12\",\"customerId\":null,\"timestamp\":\"2025-01-24T10:25:49.604Z\",\"url\":\"https://eltemplodelperfume.com/\"}]"
+    },
+    {
+        "Data": "[{\"category\":\"Navigation\",\"action\":\"Link Click\",\"label\":\"https://eltemplodelperfume.com/collections/perfumes-femeninos\",\"value\":null,\"ip\":\"188.26.198.228\",\"customerId\":null,\"timestamp\":\"2025-01-24T15:36:52.931Z\",\"url\":\"https://eltemplodelperfume.com/\"},{\"category\":\"Engagement\",\"action\":\"Home\",\"label\":null,\"value\":12.909,\"ip\":\"188.26.198.228\",\"customerId\":null,\"timestamp\":\"2025-01-24T15:36:52.942Z\",\"url\":\"https://eltemplodelperfume.com/\"}]"
+    },
+    {
+        "Data": "[{\"category\":\"Engagement\",\"action\":\"Home\",\"label\":null,\"value\":10.452,\"ip\":\"79.116.249.139\",\"customerId\":null,\"timestamp\":\"2025-01-26T11:26:50.519Z\",\"url\":\"https://eltemplodelperfume.com/\"}]"
+    }
+]
