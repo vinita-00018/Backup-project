@@ -1,0 +1,15 @@
+[theme]
+primaryColor = "blue"
+backgroundColor = "Dark"
+secondaryBackgroundColor = "#f0f0f5"
+textColor = "black"
+font = "sans serif"
+base = "Dark"
+
+[server]
+headless = true
+port = 8501
+
+[global]
+pageTitle = "My Streamlit App"
+pageIcon = "🎨"
